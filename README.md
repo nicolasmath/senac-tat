@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/license/nicolasmath/senac-tat?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/nicolasmath/senac-tat?style=for-the-badge)
 
 
 
